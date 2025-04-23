@@ -1,0 +1,18 @@
+[1.080s] Invoking command in '/home/nathanielrobotics/turtlebot3_ws/build/turtle_move': PYTHONPATH=/home/nathanielrobotics/turtlebot3_ws/build/turtle_move/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nathanielrobotics/turtlebot3_ws/install/turtle_move/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nathanielrobotics/turtlebot3_ws/build/turtle_move/build --no-deps symlink_data
+[1.355s] running develop
+[1.521s] running egg_info
+[1.522s] writing turtle_move.egg-info/PKG-INFO
+[1.522s] writing dependency_links to turtle_move.egg-info/dependency_links.txt
+[1.522s] writing entry points to turtle_move.egg-info/entry_points.txt
+[1.522s] writing requirements to turtle_move.egg-info/requires.txt
+[1.523s] writing top-level names to turtle_move.egg-info/top_level.txt
+[1.524s] reading manifest file 'turtle_move.egg-info/SOURCES.txt'
+[1.524s] writing manifest file 'turtle_move.egg-info/SOURCES.txt'
+[1.526s] running build_ext
+[1.526s] Creating /home/nathanielrobotics/turtlebot3_ws/install/turtle_move/lib/python3.10/site-packages/turtle-move.egg-link (link to .)
+[1.528s] Installing move script to /home/nathanielrobotics/turtlebot3_ws/install/turtle_move/lib/turtle_move
+[1.528s] Installing read script to /home/nathanielrobotics/turtlebot3_ws/install/turtle_move/lib/turtle_move
+[1.528s] 
+[1.528s] Installed /home/nathanielrobotics/turtlebot3_ws/build/turtle_move
+[1.528s] running symlink_data
+[1.561s] Invoked command in '/home/nathanielrobotics/turtlebot3_ws/build/turtle_move' returned '0': PYTHONPATH=/home/nathanielrobotics/turtlebot3_ws/build/turtle_move/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nathanielrobotics/turtlebot3_ws/install/turtle_move/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nathanielrobotics/turtlebot3_ws/build/turtle_move/build --no-deps symlink_data

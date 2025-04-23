@@ -1,0 +1,4 @@
+[console_scripts]
+move = turtle_move.publisher:main
+read = turtle_move.subscriber:main
+
