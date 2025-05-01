@@ -19,7 +19,7 @@ setup(
     license='Apache-2.0',
     tests_require=['pytest'],
     entry_points={
-        'console_scripts': ['move = turtle_move.publisher:main', 'read = turtle_move.subscriber:main'
+        'console_scripts': ['move = turtle_move.publisher:main', 'read = turtle_move.subscriber:main', 'test = turtle_move.logic_test:main'
         ],
     },
 )
